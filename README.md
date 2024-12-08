@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/tugcekizildg/Base_Apparel_Coming_Soon_FEM.io)
 - Live Site URL: [Live Preview](https://guileless-queijadas-dd9f48.netlify.app)
 
 ## My process
